@@ -1,4 +1,4 @@
-# Hi, I'm Nico Leori Agratama 👋
+# Hi, I'm Nico Leori Agratama 
 
 🤖 **AI Fullstack Engineer** | Building intelligent applications with modern AI tech
 
